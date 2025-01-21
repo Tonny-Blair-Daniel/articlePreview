@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github link](https://your-solution-url.com)
+- Solution URL: [github link](https://github.com/Tonny-Blair-Daniel/articlePreview.git)
 - Live Site URL: [Live site](https://your-live-site-url.com)
 
 ## My process
@@ -49,4 +49,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [the git user](https://www.your-site.com)
+- Website - [the git user]
