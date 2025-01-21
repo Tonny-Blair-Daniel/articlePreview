@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github link](https://github.com/Tonny-Blair-Daniel/articlePreview.git)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://tonny-blair-daniel.github.io/articlePreview/)
 
 ## My process
 
